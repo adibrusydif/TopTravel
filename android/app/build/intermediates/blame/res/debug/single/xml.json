@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yogieputra/Desktop/mobileClass/TopTravel/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/yogieputra/Desktop/mobileClass/TopTravel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/adibrusydi/Downloads/TopTravel/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/adibrusydi/Downloads/TopTravel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    }
+]
